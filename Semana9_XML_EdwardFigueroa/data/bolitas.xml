@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bolitas>
+  <bolita b="255" diam="30" g="30" r="30" x="200" y="300"/>
+  <bolita b="255" diam="30" g="255" r="255" x="100" y="200"/>
+  <bolita b="255" diam="30" g="255" r="255" x="100" y="200"/>
+  <bolita b="255" diam="30" g="255" r="255" x="300" y="300"/>
+  <bolita b="255" diam="30" g="0" r="0" x="350" y="350"/>
+  <bolita b="0" diam="30" g="0" r="0" x="380" y="380"/>
+  <bolita b="0" diam="30" g="255" r="255" x="400" y="400"/>
+  <bolita b="0" diam="30" g="255" r="255" x="30" y="400"/>
+  <bolita b="0" diam="30" g="255" r="255" x="200" y="280"/>
+  <bolita b="0" diam="30" g="255" r="255" x="200" y="280"/>
+  <bolita b="100" diam="20" g="127" r="143" x="10" y="10"/>
+  <bolita b="100" diam="20" g="0" r="143" x="100" y="10"/>
+  <bolita b="100" diam="76" g="0" r="143" x="39" y="56"/>
+</bolitas>
